@@ -1,6 +1,6 @@
-# pull_request_practice
+# Pull Request Practice
 
-1. Fork this repo to your gitHub account.
+1. Fork this repo to your GitHub account.
 2. Clone the repo down locally.
 3. `cd` into the repo and `touch index.html`
 4. `git add -A`
